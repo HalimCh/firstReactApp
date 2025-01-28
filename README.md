@@ -6,4 +6,3 @@ another text from local(halim)
 another text from remote(islem)
 good work here 
 git revert test
-git revert continue test 
