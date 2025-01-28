@@ -5,3 +5,4 @@ text from remote (islem)
 another text from local(halim)
 another text from remote(islem)
 good work here 
+git revert test
